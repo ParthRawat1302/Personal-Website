@@ -37,3 +37,12 @@ It includes a modern UI with dark mode, customizable fonts, and a clean footer w
 - [Email](mailto:youremail@example.com)  
 
 ---
+
+## 📌 Setup Instructions
+
+1. Clone this repo:
+   ```bash
+   git clone https://github.com/ParthRawat1302/personal-website.git
+
+2.Open index.html in your browser
+   Or deploy directly using GitHub Pages
