@@ -1,6 +1,8 @@
-# Personal-Website"# personal-website" 
-You can view my website at this link:-
-https://parthrawat1302.github.io/personal-website/
+
+## 🔗 Live Demo
+
+👉 [View My Website](https://parthrawat1302.github.io/personal-website/)  
+
 
 # 🌐 Personal Portfolio Website
 
@@ -25,12 +27,6 @@ It includes a modern UI with dark mode, customizable fonts, and a clean footer w
 - **Frontend:** HTML, CSS, JavaScript  
 - **Styling:** CSS Flexbox/Grid, Custom Fonts  
 - **Deployment:** GitHub Pages  
-
----
-
-## 🔗 Live Demo
-
-👉 [View My Website](https://yourusername.github.io/your-repo-name/)  
 
 ---
 
