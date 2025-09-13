@@ -11,6 +11,16 @@ export const projects: Project[] = [
     demoUrl: '/',
     githubUrl: 'https://github.com/ParthRawat1302/CHITRA-AI-IMAGE-GENERATOR',
     featured: false,
+  },{
+    id: '2',
+    title: 'MauSam | Weather App',
+    description: 'A full-stack website with React,TypeScript,TailwindCSS, Node.js(as Backend) and PostgreSQL(as Database).Live Weather is Fetching with the help of APIs. Features include user authentication, Weather Dashboard,Settings(include unit changes) and Contact form.',
+    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb0sKR5dx_Y0aodiBZ4Ls2ZDxT5JLCZhbm8Q&s',
+    technologies: ['React', 'TypeScript', 'TailwindCSS', 'Node.js', 'PostgreSQL','OAuth Authentication'],
+    category: 'Full Stack',
+    demoUrl: 'https://weather-dashboard-b6kp.onrender.com/',
+    githubUrl: 'https://github.com/ParthRawat1302/Weather-Dashboard',
+    featured: true,
   }
 ];
 
